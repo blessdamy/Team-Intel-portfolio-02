@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family: "avenir-light";
+  src: url("./fonts/Avenir\ Light.ttf");
+}
+@font-face {
+  font-family: "avenir-heavy";
+  src: url("./fonts/Avenir\ Heavy.ttf");
+}
+@font-face {
+  font-family: "avenir-regular";
+  src: url("./fonts/Avenir\ Regular.ttf");
+}
+
